@@ -1,0 +1,57 @@
+h2 {
+    font-weight: 700;
+}
+
+body {
+    background: #fff;
+}
+
+img {
+    max-width: 100%;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.intermedio {
+    background-color: #A4452C;
+}
+
+footer {
+    text-align: center;
+    color: #fff;
+    background-color: black;
+}
+
+.objeto {
+    text-align: center;
+    padding: 4rem 0;
+}
+
+.sector {
+    padding-left: 10rem;
+}
+
+.texto2 {
+    padding-left: 5rem;
+    color: #fff;
+}
+
+.card-body {
+    font-weight: 700;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+R .intermedio {
+    text-align: center;
+}
+
+.intermedio p {
+    color: white;
+}
+
+#miTitulo {
+    text-align: right;
+}
