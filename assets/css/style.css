@@ -1,3 +1,7 @@
+h1 {
+    font-weight: 700;
+}
+
 h2 {
     font-weight: 700;
 }
@@ -8,6 +12,11 @@ body {
 
 img {
     max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
 
 .nav-link {
@@ -33,6 +42,11 @@ footer {
     padding-left: 10rem;
 }
 
+.principal {
+    position: relative;
+    text-align: center;
+}
+
 .texto2 {
     padding-left: 5rem;
     color: #fff;
@@ -54,4 +68,13 @@ R .intermedio {
 
 .miTitulo {
     text-align: right;
+}
+
+.card-body a {
+    text-decoration: none;
+    color: black;
+}
+
+.parrafo {
+    margin: 0 20%;
 }
